@@ -15,8 +15,6 @@
  🌱 I’m currently learning **React, Nodejs, Laravel, Spring Boot, Tailwind, SQL, MongoDB**
 
  💬 Ask me about **React, Nodejs, Laravel, Spring Boot, Tailwind, SQL, MongoDB**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
